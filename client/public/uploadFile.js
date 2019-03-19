@@ -55,7 +55,7 @@ function reset() {
   results.innerHTML = "";
 }
 
-function showStats(data) {
+function showStats({ filename, mimetype, filesize }) {
   inputFile.style = " display: none; ";
   results.innerHTML = `
     <p>
