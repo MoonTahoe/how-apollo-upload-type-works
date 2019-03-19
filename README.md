@@ -1,4 +1,4 @@
-# How the Apollo Upload type Works
+# How the Upload Scalar Works
 
 An example of an apollo server that uploads a file. This sample is explaind in the Moon Highway blog article [How the Upload Scalar Works](https://moonhighway.com/how-the-upload-scalar-works) This sample simply reports on file information from a mutation. Both client and api files are found in this repo.
 
