@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="styles.css" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Vanilla Upload Sample</title>
+  </head>
+  <body>
+    <h1>upload a file with vanilla javascript</h1>
+    <a href="/">upload with react-apollo</a>
+    <input
+      id="photo-to-post"
+      type="file"
+      accept="image/jpeg"
+      onchange="sendFile()"
+    />
+    <div id="results"></div>
+    <script src="uploadFile.js"></script>
+  </body>
+</html>

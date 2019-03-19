@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  padding: 25px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png);
+  background-size: 20%;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  display: block;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  border: solid 1px black;
+}

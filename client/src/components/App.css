@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  padding: 25px;
+  background-image: url(https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/full/react.png);
+  background-size: 20%;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  display: block;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  border: solid 1px black;
+}
